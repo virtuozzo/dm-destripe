@@ -2,6 +2,7 @@
 Device-mapper de-striping (reverse striping) module
 
 Copyright (C) 2013-2016 OnApp Ltd.
+
 Author: (C) 2013-2016 Michail Flouris <michail.flouris@onapp.com>
 
 Implementation of a de-striping kernel module for device mapper
